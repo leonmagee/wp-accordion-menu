@@ -4,7 +4,7 @@
 
 // jQuery
 
-// CSS
+// CSS3
 
 // sidebar.php
 
