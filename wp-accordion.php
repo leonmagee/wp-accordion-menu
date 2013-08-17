@@ -8,6 +8,8 @@
 
 // sidebar.php
 
+// awesomeness
+
 <div class='#'>
 
 <?php echo "message"; ?>
