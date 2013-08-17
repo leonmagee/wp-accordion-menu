@@ -4,11 +4,15 @@
 
 // jQuery
 
-// CSS
+// CSS3
 
 // sidebar.php
 
+<<<<<<< HEAD
 // awesomeness
+=======
+// master blaster....
+>>>>>>> master
 
 <div class='#'>
 
