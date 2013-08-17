@@ -8,6 +8,8 @@
 
 // sidebar.php
 
+// master blaster....
+
 <div class='#'>
 
 <?php echo "message"; ?>
